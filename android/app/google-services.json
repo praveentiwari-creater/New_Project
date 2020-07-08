@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "852044867701",
+    "firebase_url": "https://praveen-login.firebaseio.com",
+    "project_id": "praveen--login",
+    "storage_bucket": "praveen--login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852044867701:android:c863478ed84753a748303c",
+        "android_client_info": {
+          "package_name": "com.new_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852044867701-mourcfauksq0acnm53tlmskp87gn4m9u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.new_project",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "852044867701-tlt7ot8l6dlvsdvnii7pg56ogn21i26o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD80-k_ZpjEbvfhrsQTXuvb_6OZT77kP1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852044867701-tlt7ot8l6dlvsdvnii7pg56ogn21i26o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
